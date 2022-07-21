@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vyomesh Dangi</h1>
 <h3 align="center">A web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vyomesh-dangi&label=Profile%20views&color=0e75b6&style=flat" alt="vyomesh-dangi" /> </p>
-
 - 🔭 I’m currently working on **A.I virtual assistant using js**
 
 - 🌱 I’m currently learning **Html, Css and Js**
